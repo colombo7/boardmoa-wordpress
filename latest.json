@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "date": "2026-10-24",
-  "zip": "releases/appapi-wp-0.2.0.zip",
-  "sha256": "ba3b3f52b6ebb5300763513e16e58d07d58974a82626b20b4b4a025b68623b28",
-  "signature": "aAihD8u0pW9xKBWnlTUZreSloAKDOSk1hO6CoIPOjiZ4MdAH+gD6MYYZ0ewhxd6BKOR0jUvMGjXG6mre+HDx3rMnYpjzq9rTyHTeCCxMOJI0ZrBDY5gkjMsSsfopM6qowoxYDYqlJkaBpmYQrbEFgeGCZrREHNHu/KnCUim2mp4Tuctp9TdZzhpeIvCf+4gQc53Oy2A3rYeQCT6wbqA7pOeTWPLn23sPjuRY4N1VYLF4H8ziFSF3hI8qVG6hlwUAgaa6l/LBa3zdEVl96cNEj1k9NX1scFpO+404nIAJU5cNgA/yiauOBcLo7e51OZENETqnGv44h3+HbLDWJoBKSXbyU7QoKnmI2FKkroth5GqtU+1i6PBOxbDz8bISmnaSrYWvnx8cX/sOGqB6GafIoa9P8kbRuPoxyK6a0KO345Mk4jzs75t1FDClkW1uycJeo2jLXgE8N/cbVbc3ahCzNnkDSYcQQMyAAOVDNhVSg6cksM9AYrbArzZQVAG+PmCx",
+  "zip": "releases/appapi-wp-0.3.0.zip",
+  "sha256": "0633036691a15ef636aaef0cb43648838bc39beb39600ac92b1deeddc147b9b5",
+  "signature": "ks1WSriPUsGA+pGtgNvyfEtgxIuFFYXWj9r0QurNRuq2rXaTsVqsUrAy9Owd3mxpQoNjJXLP4IttQ+yJSzAhgg/j3d8ThdO8OoIQPwusIuWZY9UdCf5g1lfY9MMbgOLgQH+4w+DBGeaQpPMH/bXnNG55pDUpATQEf7pA65WvkRepzjr6JTg/L76Ql6cPhIQdtBITcQx7Wbv/kjg4cQoMdBO/nXtNnLAZWxqvG51fDZTaiyGkE3pShCURNZyaWuA+fYL6KenaUeQ2oX34s+cbIMfm1y+Nfobn/AX+wYZQRCguDqqn8DSjQagzd+jEtRCjxIa3mH/dme/nHnzcFNK3m7sGzHuguIO/D89qzaHfSrk4GgdyD3vlhfoGZmXN7ly/P7Tm0DlrbyeBZVSkWTL1XocXE0VPNpRuvSmqT/R+LOCi89v/ezyoRamwPKqXlJVs35Px0mukPitw94/RnirYLQyr/hcoV8pnsYT7nHKBtzMkNqCejJhHbZHtjj2TuDCP",
   "min_php": "7.4",
-  "notes": "첫 공개판: WordPress 기본 글·KBoard·망보드·bbPress 읽기·쓰기·댓글, 비회원 비밀번호, 사진(기본 글·KBoard), 추천"
+  "notes": "많이 쓰는 WordPress 플러그인 약 30개 호환: 보안·2단계 인증·로그인 필수·회원 제한·캐시·CAPTCHA·소셜 로그인·wpDiscuz·Elementor·Contact Form 7·WP-Polls(앱에서 투표)·Polylang. 웹보다 더 보이던 곳 수정"
 }

@@ -2,7 +2,7 @@
 
 스마트폰 게시판 앱 **게시판모아**가 WordPress 사이트의 글·페이지와 KBoard·망보드·bbPress 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
-- 최신 버전: **0.2.0 (시험판)** · 내려받기: [releases/appapi-wp-0.2.0.zip](releases/appapi-wp-0.2.0.zip) · [latest.json](latest.json)
+- 최신 버전: **0.3.0 (시험판)** · 내려받기: [releases/appapi-wp-0.3.0.zip](releases/appapi-wp-0.3.0.zip) · [latest.json](latest.json)
 - 설치한 뒤에는 관리 화면(설정 → 게시판모아 앱 연동)의 [업데이트 확인]으로 새 버전을 받습니다.
 - XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi), XE3 사이트용은 [boardmoa-appapi-xe3](https://github.com/colombo7/boardmoa-appapi-xe3) 에 있습니다.
 
@@ -25,7 +25,7 @@ XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/colombo7/board
 
 ## 필요한 것
 - WordPress 6.0 이상 (7.1.3 에서 시험), PHP 7.4 이상
-- 게시판 플러그인은 깔린 것만 씁니다: KBoard 6.7, KBoard 댓글, 망보드 2.4, bbPress 2.6 에서 시험
+- 게시판 플러그인은 깔린 것만 씁니다: KBoard 6.7, KBoard 댓글, 망보드 2.4, bbPress 2.6 에서 시험. 함께 시험한 플러그인 20여 개는 아래 '다른 플러그인과 함께'
 
 ## 설치
 1. `appapi-wp-<버전>.zip` 을 받습니다.
@@ -40,6 +40,14 @@ XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/colombo7/board
   메뉴에 없는 KBoard·망보드 게시판과 포럼은 메뉴 끝 '그 밖의 게시판' 묶음에 따로 나옵니다.
 - 볼 수 있는지는 워드프레스 권한과 각 게시판 플러그인의 설정을 그대로 따릅니다(웹 화면과 같은 판단 함수). 볼 권한이 없는 게시판·글은 앱의 메뉴·새 글·검색 어디에도 나오지 않습니다.
 - 앱 로그인은 웹 로그인과 같은 `wp_authenticate`(보안 플러그인의 로그인 제한·2단계 인증 포함)를 거치고, 앱 전용 토큰을 줍니다. 비밀번호를 바꾸면 앱도 다시 로그인해야 합니다.
+
+## 다른 플러그인과 함께
+- **회원 전용 사이트**(Force Login, Members '사이트 비공개', Ultimate Member '로그인한 회원만', Restricted Site Access)·**Elementor 점검 모드**: 웹과 같이 비회원에게는 앱에서도 로그인을 먼저 권합니다.
+- **회원 등급으로 글 가리기**(Members, Ultimate Member, Paid Memberships Pro): 웹과 같은 안내 문구가 보이고 댓글은 보이지 않습니다.
+- **로그인 CAPTCHA**(CAPTCHA 4WP 의 reCAPTCHA v2 체크박스·Turnstile): 앱에서 풉니다. 보이지 않는 reCAPTCHA·v3 는 앱에서 풀 수 없습니다.
+- **2단계 인증**: Wordfence 는 비밀번호 칸에 비밀번호와 6자리 코드를 이어서 넣습니다. Two Factor·WP 2FA·Really Simple Security 는 프로필 화면의 **애플리케이션 비밀번호**를 만들어 비밀번호 대신 넣습니다(애플리케이션 비밀번호를 지워도 이미 로그인한 앱은 계속 됩니다. 끊으려면 비밀번호를 바꿉니다).
+- **본문 속 양식**(Contact Form 7 등)은 앱에서 웹 화면 링크로 보입니다. **WP-Polls** 설문은 앱에서 투표할 수 있습니다. **Polylang** 사이트는 앱 화면 언어(한국어·영어)가 사이트 언어에 있으면 그 언어로 보입니다.
+- 페이지 캐시(WP Super Cache, W3 Total Cache, LiteSpeed Cache, Autoptimize)는 앱 응답을 저장하지 않습니다. 서버의 nginx·프록시 캐시도 `Cache-Control: no-store, private` 를 지키게 두세요.
 
 ## 업데이트·지우기
 - 업데이트: 설정 → 게시판모아 의 **[업데이트 확인]** → **[업데이트]**. 공개 저장소에서 받아 전자서명을 확인하고, 지금 파일을 `wp-content/uploads/boardmoa-backup/` 에 백업한 뒤 바꿉니다.
