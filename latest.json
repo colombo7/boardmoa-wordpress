@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "date": "2026-10-24",
+  "zip": "releases/appapi-wp-0.2.0.zip",
+  "sha256": "ba3b3f52b6ebb5300763513e16e58d07d58974a82626b20b4b4a025b68623b28",
+  "signature": "aAihD8u0pW9xKBWnlTUZreSloAKDOSk1hO6CoIPOjiZ4MdAH+gD6MYYZ0ewhxd6BKOR0jUvMGjXG6mre+HDx3rMnYpjzq9rTyHTeCCxMOJI0ZrBDY5gkjMsSsfopM6qowoxYDYqlJkaBpmYQrbEFgeGCZrREHNHu/KnCUim2mp4Tuctp9TdZzhpeIvCf+4gQc53Oy2A3rYeQCT6wbqA7pOeTWPLn23sPjuRY4N1VYLF4H8ziFSF3hI8qVG6hlwUAgaa6l/LBa3zdEVl96cNEj1k9NX1scFpO+404nIAJU5cNgA/yiauOBcLo7e51OZENETqnGv44h3+HbLDWJoBKSXbyU7QoKnmI2FKkroth5GqtU+1i6PBOxbDz8bISmnaSrYWvnx8cX/sOGqB6GafIoa9P8kbRuPoxyK6a0KO345Mk4jzs75t1FDClkW1uycJeo2jLXgE8N/cbVbc3ahCzNnkDSYcQQMyAAOVDNhVSg6cksM9AYrbArzZQVAG+PmCx",
+  "min_php": "7.4",
+  "notes": "첫 공개판: WordPress 기본 글·KBoard·망보드·bbPress 읽기·쓰기·댓글, 비회원 비밀번호, 사진(기본 글·KBoard), 추천"
+}
