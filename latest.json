@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
+  "version": "1.0.0",
   "date": "2026-10-25",
-  "zip": "releases/appapi-wp-0.4.0.zip",
-  "sha256": "70aa00253fa9556c66c2f987443d4c443894fc574ecf0774416f71dda38ae435",
-  "signature": "L6ONsf/dRnFN0052frGjk5PUjj+Xd6vMdU687Jkm9yQezJLGB+gAE5Ar4RCmyman8SUf10u1TlW7czLW4ppsE+mF52kPvXz8DwqFLlf6T/sSdJ634G+2oQZb90EOwBg+bthkzzJy6zpdKXFrj/JtJjtAfqSzYLDJStgK6H6EpAin01xqvbvLNK82Dbf4mFoPPdcyPlGWVqT3fbwE7hMadMua80iPp4HXS0mX3iU3nWHMvVsOLQ7EWLZD1QvO00xiskrIqnGPlnCrvQ4WVjVxuWVLwQOxIOMTgZx7DGNZSDt9bTqcsPjsrNbvDIeWKDAc6nOBtRRcdaytwVXSg21aL3oEJ5yfBV/wQlIWAtdNw4RyXZGUPkB8v/goFutLwmQrkvEpvfqnfondvkpskuacbCf6gROMSLgPFaHSczapY+giXoG4PUuFBIatCFFiOK+igBuuO2MTu4XL0cAsqEu6OBl7SItgbEGyg/4o7IiF8rCZgYLxbwtRv5ZGbTnNFO9H",
+  "zip": "releases/appapi-wp-1.0.0.zip",
+  "sha256": "6d4f3e7097e4e3486e4b8cd0812315ea5c8d664e833c9a8bac140fb14377ba33",
+  "signature": "QIEBIjw+DNmtF3pRcqOYsmi5h/Q+vnfzaJAHPRnDHnklbNBdiIAKG1DkgbcxqcDRZzo8rWVGWjPD7j2UwDuP0ypwZv2pb9ey2UO4pDH13d15ud2VE00zAFWiOjGqiFc8YV3YhMnh1z9Q05ljn+kElVle4JCtQI9Wpx8GE3CQTxhO5u0wY9mWeHQ7138De4Nf2iOwogaXW4Is8WlDZDG00u/LGI+U2cmTzZ6zrqfDpdyxDTd+VfS8dsGFlpQe9/g63jeivOdUgv3GYjgNIQX7kRRn3hwCxDYiEk73GEpm/jCeXplyjUKfh0Tm739bS0ZI/33hluKXGA6mTTyHfnNxSheWuNUivAG4AjB7OAvvC7VirLWl1oCsUepdbuEiZGzO9RLkvFuqOimls9K0ZaeQNWS5LRcfPxk7Bp64SRaMXoV2Qk4Ev4JF2OViBuOGZ4WDHgxNjCfhC1kTvkdPjAQ+zuB4lG2MgF0bJ9t5ltxSYHvEpo8ztVNlrB085saxSRbc",
   "min_php": "7.4",
-  "notes": "12개 언어(앱 언어에 맞춘 메뉴·안내 문구, Polylang 중국어 간체 구분), 번역된 게시판 페이지 인식"
+  "notes": "버전 번호를 XE/Rhymix·XE3 연결 모듈과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
 }
