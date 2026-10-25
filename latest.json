@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
-  "date": "2026-10-24",
-  "zip": "releases/appapi-wp-0.3.0.zip",
-  "sha256": "0633036691a15ef636aaef0cb43648838bc39beb39600ac92b1deeddc147b9b5",
-  "signature": "ks1WSriPUsGA+pGtgNvyfEtgxIuFFYXWj9r0QurNRuq2rXaTsVqsUrAy9Owd3mxpQoNjJXLP4IttQ+yJSzAhgg/j3d8ThdO8OoIQPwusIuWZY9UdCf5g1lfY9MMbgOLgQH+4w+DBGeaQpPMH/bXnNG55pDUpATQEf7pA65WvkRepzjr6JTg/L76Ql6cPhIQdtBITcQx7Wbv/kjg4cQoMdBO/nXtNnLAZWxqvG51fDZTaiyGkE3pShCURNZyaWuA+fYL6KenaUeQ2oX34s+cbIMfm1y+Nfobn/AX+wYZQRCguDqqn8DSjQagzd+jEtRCjxIa3mH/dme/nHnzcFNK3m7sGzHuguIO/D89qzaHfSrk4GgdyD3vlhfoGZmXN7ly/P7Tm0DlrbyeBZVSkWTL1XocXE0VPNpRuvSmqT/R+LOCi89v/ezyoRamwPKqXlJVs35Px0mukPitw94/RnirYLQyr/hcoV8pnsYT7nHKBtzMkNqCejJhHbZHtjj2TuDCP",
+  "version": "0.4.0",
+  "date": "2026-10-25",
+  "zip": "releases/appapi-wp-0.4.0.zip",
+  "sha256": "70aa00253fa9556c66c2f987443d4c443894fc574ecf0774416f71dda38ae435",
+  "signature": "L6ONsf/dRnFN0052frGjk5PUjj+Xd6vMdU687Jkm9yQezJLGB+gAE5Ar4RCmyman8SUf10u1TlW7czLW4ppsE+mF52kPvXz8DwqFLlf6T/sSdJ634G+2oQZb90EOwBg+bthkzzJy6zpdKXFrj/JtJjtAfqSzYLDJStgK6H6EpAin01xqvbvLNK82Dbf4mFoPPdcyPlGWVqT3fbwE7hMadMua80iPp4HXS0mX3iU3nWHMvVsOLQ7EWLZD1QvO00xiskrIqnGPlnCrvQ4WVjVxuWVLwQOxIOMTgZx7DGNZSDt9bTqcsPjsrNbvDIeWKDAc6nOBtRRcdaytwVXSg21aL3oEJ5yfBV/wQlIWAtdNw4RyXZGUPkB8v/goFutLwmQrkvEpvfqnfondvkpskuacbCf6gROMSLgPFaHSczapY+giXoG4PUuFBIatCFFiOK+igBuuO2MTu4XL0cAsqEu6OBl7SItgbEGyg/4o7IiF8rCZgYLxbwtRv5ZGbTnNFO9H",
   "min_php": "7.4",
-  "notes": "많이 쓰는 WordPress 플러그인 약 30개 호환: 보안·2단계 인증·로그인 필수·회원 제한·캐시·CAPTCHA·소셜 로그인·wpDiscuz·Elementor·Contact Form 7·WP-Polls(앱에서 투표)·Polylang. 웹보다 더 보이던 곳 수정"
+  "notes": "12개 언어(앱 언어에 맞춘 메뉴·안내 문구, Polylang 중국어 간체 구분), 번역된 게시판 페이지 인식"
 }
