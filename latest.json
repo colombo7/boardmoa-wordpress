@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "date": "2026-10-25",
-  "zip": "releases/appapi-wp-1.0.2.zip",
-  "sha256": "74a0e4fd208255deab79b73eebcec6a1d35da663643ac7937ffb7e3279dd9fbd",
-  "signature": "mqvaI6FJtVBSys3FIBovfCVpGSMn4hlSl6mgoqOYedchWUA4WSpnus0MHThkFpueCVHIBL9s5AU/VYG3RFnd0R2guul1QJfaJTJ2kkDW15I/CkwYQn6zTUPZgBEh/zKE08UTK27V+m/onOOS4nCu9oRfvDUVZN80BN9XZL4lPCXOdmqDxJ5t/5DEZAGvry65whVNB2sEpIY4t34OIXL9M9XKi9sXaaWF/OJ95M9IxV3y0R44SCw/C6HdiBGEGKmbS80VL8gWOaEjYPlETksEMXSpxK+StEG6faPKb0DvWFZfEJMGvvDXb65y7NtCzzHq5zDV5vk6wYiHW5qRU3VDNzoFV55Ml61Ne5nd0icztSg/PzeMtmzF+8/QD3XOLplg8mq4FL++EyTWJCb4XmzvBKYriH9Xnn15+ra8ppF64dawRkIIAFJI8Q+DAmYpSIZJ1oJUtgoEWXt6qRflmVo9gsjtqkyTji/n1KfGZL3mZKPrOuWL88lW7qTgRwfK1plf",
+  "version": "1.0.3",
+  "date": "2026-10-26",
+  "zip": "releases/appapi-wp-1.0.3.zip",
+  "sha256": "a3078f7d48e98473b1bc728c927bd94c8827961e3d1f12c74f499560c5266ffa",
+  "signature": "SJgYzdzTlZuBFGIrVXX58LsSPFXBlxEXwOXlSWbgmAeJb1TpMs1CPM8VF7UQCoPFtwEzVnzs+sTLJ8DVY3ZlD5IEb0NxNdrdqlNs66w3Qz+NvIV4sJEDS3uSe93j40FKySbe5yZ+SSLb2rEqyRD5KANGPeW4M6WKveDXQ0e1DnXWYXwCBayd6/j1jJ0jrJlFPB+4pHATSRnz3HshXLoJFhE3mdvxH7K1zm1xEeCvJa1nMiO/K8jJCc7+XXZ5uPWEUIdmvF+cYmN1qSmadjdSvOMlYxWkHASdVo9OIoNBhcHlOCIpif7Dpi0x23ESYmYgrDoXwQnLYgTMKFyW6bMUdpuCR2zyqPzvNpVqW3VradI85tMoJt0bt2eP/obYBmyXrTBIRy6aUVreNQVf5vg8PfveWqxi7y9NG7ZzhxbcV4Kv3duP2TSY4p9T7SJpXJK4KoWcApTGJMJvCPxkQkNiUNs2iiT71fIvIZF6/SBwJhOAhCp6ydgXGhojfSj8vtv2",
   "min_php": "7.4",
-  "notes": "XE/Rhymix·XE3 연결 모듈과 번호를 맞춘 판(기능 변화 없음)"
+  "notes": "XE/Rhymix 모듈과 번호를 맞춘 판(기능 변화 없음)"
 }
