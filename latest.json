@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-25",
-  "zip": "releases/appapi-wp-1.0.0.zip",
-  "sha256": "6d4f3e7097e4e3486e4b8cd0812315ea5c8d664e833c9a8bac140fb14377ba33",
-  "signature": "QIEBIjw+DNmtF3pRcqOYsmi5h/Q+vnfzaJAHPRnDHnklbNBdiIAKG1DkgbcxqcDRZzo8rWVGWjPD7j2UwDuP0ypwZv2pb9ey2UO4pDH13d15ud2VE00zAFWiOjGqiFc8YV3YhMnh1z9Q05ljn+kElVle4JCtQI9Wpx8GE3CQTxhO5u0wY9mWeHQ7138De4Nf2iOwogaXW4Is8WlDZDG00u/LGI+U2cmTzZ6zrqfDpdyxDTd+VfS8dsGFlpQe9/g63jeivOdUgv3GYjgNIQX7kRRn3hwCxDYiEk73GEpm/jCeXplyjUKfh0Tm739bS0ZI/33hluKXGA6mTTyHfnNxSheWuNUivAG4AjB7OAvvC7VirLWl1oCsUepdbuEiZGzO9RLkvFuqOimls9K0ZaeQNWS5LRcfPxk7Bp64SRaMXoV2Qk4Ev4JF2OViBuOGZ4WDHgxNjCfhC1kTvkdPjAQ+zuB4lG2MgF0bJ9t5ltxSYHvEpo8ztVNlrB085saxSRbc",
+  "zip": "releases/appapi-wp-1.0.1.zip",
+  "sha256": "4f8648bbe61c29f3a81319e27c21ee1c895e3962939833fd208a475c55bc7d3d",
+  "signature": "cnNzn9X2WOlg5N5uU+U8ofb5jT91p89juNiOd4LVIZnfsBhAtMseyigkdZZ70sbwx1HBqLIQBokDp3StwAinG2j2kllEVP+4br/F0qpvpDUHmAxzNj2uZItomZ8ktmWIqCMvspsb+DBxKVPxK25LbrotQYCX9JghG2/J0EYu4o2ZNE9CttDUVoYV3goDeWP+cTiwlh9kt23dbIc3rkLqp4wktyJvNDMBtC7it52DUIohjckk+4htKYDFd/pK1286QEl3NS+ecFDFGxdRLJGd2IPiy5z3lR+2WvZ6xJAz1PlV+w/6RGKhni4ou2Sb5mXx/wemDLa52QN19QPVsMyicU9oFUtX/s4ISuZn3Iccpdh64v/0bXcTW0rlzG/LD+qCB83oZEuJLPQxGN59c+g0eoGCSz4Mf5pHKn9RbOMOyjPhA030cM62DojN/ImZb1rnpwEuMDCkw/J6EAQJzur2Oisl5t44+jk6cZ51yXbQOojwZBhN08hPvbirozPzVxR2",
   "min_php": "7.4",
-  "notes": "버전 번호를 XE/Rhymix·XE3 연결 모듈과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
+  "notes": "보안 수정(중요): 비공개 포럼·회원 전용 KBoard 글 등이 페이지 주소로 보이던 것과 KBoard 승인 대기 글 노출을 막음, 지운 애플리케이션 비밀번호의 앱 로그인 끊기, 그 밖 안정성"
 }
