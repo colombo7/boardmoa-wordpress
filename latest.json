@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "date": "2026-10-26",
-  "zip": "releases/appapi-wp-1.0.9.zip",
-  "sha256": "25a206f8664ab7251095361a93905f15fe8bd8aa6bb9c4ba3f207e172e0edae8",
-  "signature": "ubfre/b+SK7r92BqY0Hl4jNwa7ngAfA2mIl6pmUoYQon3XlSNo+ka1HKV3pljEUSl3x3VDw/AIuRM8jxxPEhynPBDzCYZju4xdY3w4DK953+4v7BLxry7WqpJL4BvOstXJz62cLA3CGvtRoL+lHGU7jhp+evOvdUCsGDaydoBva3FrmMFVmkrHfE6SZ7xMCQDFL+iOeT9UeTdXGWazNItC2Kd1P3ToR8Kp5BPwZxPCGG6OaW+0kFzFN1UAKU88jilJeulOkArqFFID60phm5bCvFDtuonFeCo4XDCsN7FQwSzE3TSqK1JKQ1D9WnBKkrGpmuX21AXqzr1cYfRcHGQCffZXF3/NPrV0s6K7dxzFbtnhjT/bPnjERzQQJvD2WGfx+lo10cylWTyk0svxiNOafC/mbu5eHiNjB1gn0g4tcigCtTPIxMguB4CV0QGR/Ho0wtpljjUAioRT6DQSaaVraEqiFLuP1uMiXvKYLpLYnYbI4c7Z4rJIwqk072el+5",
+  "version": "1.0.10",
+  "date": "2026-10-27",
+  "zip": "releases/appapi-wp-1.0.10.zip",
+  "sha256": "6e7f1d2838a769a9fe9513ecc5cea289d5909f40df6bc5194316cc77ff32d64c",
+  "signature": "KbuklJ1CF6kQ7lnVJxzw9bD59Rf9BM1nCLBDkS65kKe1brDIB2i9otsKlXIheNWoU2+6xBjvkwfEMcrifYq7MFu1sFg4/6QGxFpX07vTxBLRzMKQBe6qivpOYw05xG6SeJxscSbhTxWEEeZ0QRDRR66cczfA8IrF6gh+wJU03WAFpQojkvG96os4kSNmxlm+dO+IQpqgNOxm6sG/tfIEZ46e8HUulP7jrWVOqtiZqROyeUDqdE+4/lHseG9PAeDy2vabEa1hGHJRbNdusp29C/uy0I1I5GX4F3OQ3YcRIRftmRouCm/lpzBki2qi5FrPw7MonnYgUPzQLwFTKSXR6NLuu+Nz50SObVcITiAVVL6HO0aIMN/N4FJOU6N9W+YjHlXlG3Fdz/o/Tjx1chFAtPV39HhFE2wlf7n9Y/ybJzz0UoNHS44v+6LBwXnnkJT2nInQkXlFR4IecaeX+OEGiSgjYsfjC2r+0/Z0nQQddHUgE4s5+tUmQug9kut4sApW",
   "min_php": "7.4",
-  "notes": "관리 화면·업데이트 안내·설치 안내 문구를 알기 쉽게 다듬음"
+  "notes": "번호만 올림(다른 모듈과 맞춤)"
 }
