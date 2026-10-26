@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "date": "2026-10-26",
-  "zip": "releases/appapi-wp-1.0.4.zip",
-  "sha256": "bea6c547da5fd9d738beb2a492899c4396f500f9ef5374615628f244c9124055",
-  "signature": "pudl3T1v2/InJZiYaoRC9pfXkbNFyGlrBfiMCayKJ9Uoe7j6TEELoQnz2+eLog+AOEBV0xhWochQ+2YeED6uN5Ltrz+9VYyzN6s3k4Kr5bTEQkuJ/bxhUPLexEjhPiHi7AILb6P4HpopzK/I2kKmnhw0XZFZKpLWweuzWDyDA80Ig2Omhx/PN8gNW6vdG8eXQZAWQtJkiCDJy4wrIc5RhncvmVxH6VpXdilmLcZb4ag8ALQbUlkYN0tDPa3ryYGMZ7nRPv9AqM9GrMh3Idc73V7vgvb+cUR0hflJsUJLB7MJ84h8OwLQK3ELE4Cc0PHAyGtK2C6NDo5bRB4B58tkfXt0qfwG/v3ABmC90xDYwysQKmcYCedlMy1f72iMawSq1urdLLC7ncxuqG50EY8c+NaW6b4iO4wVmYVk2VCljELgFM39W1RaLGpEkUK0/xO9HMiF7V53HYtEc6ONcOKsCx/g54oV/PqlfE506AZG+HXazd/unB8uM8786XxN+CmE",
+  "zip": "releases/appapi-wp-1.0.5.zip",
+  "sha256": "c807b2b219725a6e4bf8a679c9617c3410c0e460936d734ba66cdbca43dc7100",
+  "signature": "TuVSPqrDIn7Ohk1XRxZtLd4qNfnKhWfOSuZ4/pSIZCAWLRQ4SqEs38IhpsrXKhkZRSqUkm7wDFtel0xFgH1Y+MRjESNgQqlBCxqCx2DWIet+sOTHO5jZ3Xag8rQAH4gYShUhvaQl7PNVBTsdrfBJ0KNB0ao4opopUIf79aYRpEgzIKPCkxKu8kUfsqJ1TX/RQAcjnzKesb0zuhBMeWHjQfjgPdmm25eLjAOtADS+uw+4+KlfjB7EXTncJ9cpmCsGST8jY9ehWPlkyKOeEE/t00lIUveSHYXVejfGkPgSUoTmLvweUdik7mgwyS1IMlEYlehmzngwwRVsIetl55TeIFMsHnPP/0kvuCd7UkL4wilda+pMI3SQeNAnGeUnydpzjRovhFV8LJmqlyxEWLBekVCkkYDO3p6M0lalw/+zTZXcCI56NzlnZV0U2OlQN5i1nMnEMfhfHUGPcQ3pEvyStyb4tw00u4INHB3YuCROPgKTNdr6wdkDrO8Ou9sX78GU",
   "min_php": "7.4",
-  "notes": "XE/Rhymix 모듈과 번호를 맞춘 판(기능 변화 없음)"
+  "notes": "버전 번호를 XE/Rhymix·XE3 모듈과 맞춤(1.0.5)"
 }
