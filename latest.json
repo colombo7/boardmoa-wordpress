@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "date": "2026-10-26",
-  "zip": "releases/appapi-wp-1.0.8.zip",
-  "sha256": "be0882490e45ab7e786d953ebd8b3b7db59e73878a3fb712343621e52790e1db",
-  "signature": "soIypGaTnsYTqoCwZa30iRDI+soUHcni2z/LSQbP6noqr8FPtmXrmmGwUaC3qRjLsV2MeYe2VOP1haDHMNrX+jWmOaQeejESwPfg/UFXY34aqEG+a4qJbMuo9ohVsEFrzhebRCaNoJCReR0y47LxOd0IRSr1Xl65K79JBQh+bfk+kLfJMvCuMuln7mqxrrgARmrA0GgAdzrd9KCrcPNpcvjfbe5ajVrMZSjMbvCnqP7WxUv062xM/ybPd8jVdRcplnwbf8KoJhzp0DFu6Ijy3WwP+SuhwiwY2DJlSq6KnBNiSDuieoB/SkV/fOHjKM5fBdm/P4tnJgt6HJeMOBKxKwrWnmn4Gct6Eefa/8qD6Cc1FL224MoXISjp9m0/ZqsW9AnxGi3vqjBr7+wUPoT+XNFVKh1hLwHYmya1vWERMD/i+IWflK4kr/GCNSShG3kfpHFjqaFxmPsURmAtYxn6f1j17wyvkaFf0HrkpQVyPmU7Fpn75DHBEuO12ux6S42p",
+  "zip": "releases/appapi-wp-1.0.9.zip",
+  "sha256": "25a206f8664ab7251095361a93905f15fe8bd8aa6bb9c4ba3f207e172e0edae8",
+  "signature": "ubfre/b+SK7r92BqY0Hl4jNwa7ngAfA2mIl6pmUoYQon3XlSNo+ka1HKV3pljEUSl3x3VDw/AIuRM8jxxPEhynPBDzCYZju4xdY3w4DK953+4v7BLxry7WqpJL4BvOstXJz62cLA3CGvtRoL+lHGU7jhp+evOvdUCsGDaydoBva3FrmMFVmkrHfE6SZ7xMCQDFL+iOeT9UeTdXGWazNItC2Kd1P3ToR8Kp5BPwZxPCGG6OaW+0kFzFN1UAKU88jilJeulOkArqFFID60phm5bCvFDtuonFeCo4XDCsN7FQwSzE3TSqK1JKQ1D9WnBKkrGpmuX21AXqzr1cYfRcHGQCffZXF3/NPrV0s6K7dxzFbtnhjT/bPnjERzQQJvD2WGfx+lo10cylWTyk0svxiNOafC/mbu5eHiNjB1gn0g4tcigCtTPIxMguB4CV0QGR/Ho0wtpljjUAioRT6DQSaaVraEqiFLuP1uMiXvKYLpLYnYbI4c7Z4rJIwqk072el+5",
   "min_php": "7.4",
-  "notes": "버전 번호를 XE/Rhymix·XE3 모듈과 맞춤(1.0.8)"
+  "notes": "관리 화면·업데이트 안내·설치 안내 문구를 알기 쉽게 다듬음"
 }
