@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "date": "2026-10-27",
-  "zip": "releases/appapi-wp-1.0.10.zip",
-  "sha256": "6e7f1d2838a769a9fe9513ecc5cea289d5909f40df6bc5194316cc77ff32d64c",
-  "signature": "KbuklJ1CF6kQ7lnVJxzw9bD59Rf9BM1nCLBDkS65kKe1brDIB2i9otsKlXIheNWoU2+6xBjvkwfEMcrifYq7MFu1sFg4/6QGxFpX07vTxBLRzMKQBe6qivpOYw05xG6SeJxscSbhTxWEEeZ0QRDRR66cczfA8IrF6gh+wJU03WAFpQojkvG96os4kSNmxlm+dO+IQpqgNOxm6sG/tfIEZ46e8HUulP7jrWVOqtiZqROyeUDqdE+4/lHseG9PAeDy2vabEa1hGHJRbNdusp29C/uy0I1I5GX4F3OQ3YcRIRftmRouCm/lpzBki2qi5FrPw7MonnYgUPzQLwFTKSXR6NLuu+Nz50SObVcITiAVVL6HO0aIMN/N4FJOU6N9W+YjHlXlG3Fdz/o/Tjx1chFAtPV39HhFE2wlf7n9Y/ybJzz0UoNHS44v+6LBwXnnkJT2nInQkXlFR4IecaeX+OEGiSgjYsfjC2r+0/Z0nQQddHUgE4s5+tUmQug9kut4sApW",
+  "zip": "releases/appapi-wp-1.0.11.zip",
+  "sha256": "6c4d68273e044b1534de78d7586431e607b69a2284c0aba125ffa1e6f7081357",
+  "signature": "uegpCkST5+yNI1N22AcWHhpyZrDfHg/YOcLCiTk3vqyBWv4V1vuVOtK5bqi/VeKNueYmkT2QJ99LjebFKg1NN9kAv8TDYE4Y9yIUyB9WwP24Tp2CRFFB3BSf/YT6amt33rqSx650Cf6fLjlYiehIPhiWKJQrIE4jDywW7OhH6PdSlcLEAwB63Yak1mqGm32E2M88n+nFH//cIgrhTEZvDyFff2pDOgE8uLfru6PxHN8ffGrH6tHFSr/PlVV1Kx+rbIPLfHpPc5waINd74lmlMaI4FCOgbS4qQMwb3cp79PZLN1AcbNxL8olbJsGv12S8OEnRsApXEtmdtaELdCFep+Wa9DbJOwsE/dBnkExQtbdt9X5ezmUdoClJpIoTK6N19A2MLqMyGYAlcDGAyjDraau5absEYqlB7j01oNuGI90nnYndWPRWFmNteRgxq5JGTI6xrXgeDSavSfKEw6jRkMfGGZQJluTQYS+c47TYpv/3kI4x+LcjVL0HlhS5EVAS",
   "min_php": "7.4",
   "notes": "번호만 올림(다른 모듈과 맞춤)"
 }
