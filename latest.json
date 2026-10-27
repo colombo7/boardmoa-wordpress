@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "date": "2026-10-27",
-  "zip": "releases/appapi-wp-1.0.11.zip",
-  "sha256": "6c4d68273e044b1534de78d7586431e607b69a2284c0aba125ffa1e6f7081357",
-  "signature": "uegpCkST5+yNI1N22AcWHhpyZrDfHg/YOcLCiTk3vqyBWv4V1vuVOtK5bqi/VeKNueYmkT2QJ99LjebFKg1NN9kAv8TDYE4Y9yIUyB9WwP24Tp2CRFFB3BSf/YT6amt33rqSx650Cf6fLjlYiehIPhiWKJQrIE4jDywW7OhH6PdSlcLEAwB63Yak1mqGm32E2M88n+nFH//cIgrhTEZvDyFff2pDOgE8uLfru6PxHN8ffGrH6tHFSr/PlVV1Kx+rbIPLfHpPc5waINd74lmlMaI4FCOgbS4qQMwb3cp79PZLN1AcbNxL8olbJsGv12S8OEnRsApXEtmdtaELdCFep+Wa9DbJOwsE/dBnkExQtbdt9X5ezmUdoClJpIoTK6N19A2MLqMyGYAlcDGAyjDraau5absEYqlB7j01oNuGI90nnYndWPRWFmNteRgxq5JGTI6xrXgeDSavSfKEw6jRkMfGGZQJluTQYS+c47TYpv/3kI4x+LcjVL0HlhS5EVAS",
+  "zip": "releases/appapi-wp-1.0.12.zip",
+  "sha256": "0482f462ba9224623494b95989d69b1e5f2af1d7ef8558b7b60ae72fa3a96826",
+  "signature": "npAaQSWJV8gy+WzoiJIctLjOyoH2xz1NvkH7r98BQZILyaXOsSzctOW+KeQt/Zr4y+Y4oqzOcvXy5wpQ42hsLl8sztPWoPCEORvRvHKdNtuFy3Cz2n/sxfyxthPZrNVqQ/OPHgjktyN8mDVYCeQ1x2TjDVvgWP8GD2K1N+HI8HzkZkUTZjMgB8DSGhJAe7eoWZSaKYt90WfOY/XbdYORPKPadlTnksZZhPmRJqGNWfvYgoxqUgmFbKP6DEwvjcl7DVUb6w7xV9pKSZ5umlYTEe+csbh/xvrnCtI8tFaJ7g2TOloGIzH9slkJi6fme9Tp31sK5ciW0TCK3QJWlp+gt63OE6uicCZEYM2GfIFpHGmsyeUP014K0DegJqKGUlHWc0VKnRWjouVdISwbNe+crz3g62umAupISBSo0eqCAzLxuyQvxEspta6F8eBYEirYh6ivWt9sye6dnK56hzhF7laRL1vIDJCM/68HAmvSoDxNrertEhPRqwhQAo9P8cxc",
   "min_php": "7.4",
-  "notes": "번호만 올림(다른 모듈과 맞춤)"
+  "notes": "앱 설정 '게시판 언어: 사이트 기본 언어'면 내용을 사이트 기본 언어로"
 }
