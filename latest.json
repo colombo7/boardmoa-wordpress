@@ -1,9 +1,9 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "date": "2026-10-28",
-  "zip": "releases/appapi-wp-1.0.13.zip",
-  "sha256": "eee04faf84b0b051e40bcf7f8cd44db35c702b301c5e1ed8a1d4e98a2f82c16e",
-  "signature": "Zt+/CczhaZQrjTc5JhUOT3LrRrTVtGXdwH304aO4Q+G+Pq3A/kO7y9+tIeBnGz2S6gnbEa/LIIuCzZ3hYWmLOW5/e/b+QMr9FIrDSdm+jPqvKYf8ijOnLRtQ58vAgBudXSLwmZCPbmJK94wQuypxGXFvWISvsdXMxIXXeHOcUV8Se4koKLOio3VR2zJ0bYttBFjP3avpoF7nGtxAD0/SHFfSA6DbLBmyx21T/iFF75aBUAZyzjOvQs38N/j9FHIOvUTDB3cRcR+N8Az0tHfzPWof2eO5QsLYEYCfPF4CrNHeQTmnN9z8GGc3BRmyLZDaLcFjlpULyl5jaqP4DfwVbdDGBfXJeUBNPEc1eCypQZypw1eyTXuBuzubFUzz0NXzI5e86qe9AkzNp+AifwjotPaud9FLnnVD5eYzW4sqPQnsA2oM9Yy1E0Bf5nhaX2cqIL0JCv+r44I7uWD9l3vv902zgpSscsbcfENYPmbb3R2Mi7BkUIqQe52BAjgulHbE",
+  "zip": "releases/appapi-wp-1.0.14.zip",
+  "sha256": "b372cc650d68f618cfbbeb1dabe68e31dfce88adaa425f8a7d59f6c95ea29f51",
+  "signature": "bmECRRZ1Z+/klRSJFgg9aTRQSTgkl2euxErJtOVoayxJMNTVsmJpO8+48DrzmOMKdnJIGSNyjoqLwxoVNm7coVrNeu9wXteR9EI1lnaCawVDq4S3gqTgehL3w5P6Y82G3WHoVbaBi52g1sIKDHwRnhf0dmwkKSl3kFQkFWbf1MDGwnIYIyIO9PYmH3JhioX+V57hBkiGUEc912BLBtq2lMfglgC1XwYGVEuvkZ/nZSfH4XzLU8RJLjvIqn8o9+uBYNNwfyLZZx9eOYvRvJBgtvq0HDGwqAFmYn/AZP/4kMbvyiDrQ1JzgQrppy04ax54wi+g32cr3W+T1G6HjRIPko6cYre2B63gfWvg86rcgMbVly7iNr+W2myReS1c4NWqnoJyBZ1RTCTZcqYO4ErPLUeF2aZE4RiR5tFRTpcPUb4eKBChY1R2ORIRlO9NaEErcpI1aB8lBii3bnmxS+M+FrwFYUxGRuCcsddZ4yh/lpuRX4Z+9mTvfoCfByRtQq22",
   "min_php": "7.4",
-  "notes": "사이트 이름이 다국어로 저장돼 있으면 언어별 이름을 함께 알려 줍니다(게시판모아 추천 사이트 목록용)"
+  "notes": "업데이트 직후에도 설치 현황에 새 버전이 바로 반영되고, '개발자에게 알리기'를 끈 사이트는 설치 현황에 넣지 않습니다"
 }
