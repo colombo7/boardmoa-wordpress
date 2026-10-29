@@ -1,9 +1,9 @@
 {
-  "version": "1.0.14",
-  "date": "2026-10-28",
-  "zip": "releases/appapi-wp-1.0.14.zip",
-  "sha256": "b372cc650d68f618cfbbeb1dabe68e31dfce88adaa425f8a7d59f6c95ea29f51",
-  "signature": "bmECRRZ1Z+/klRSJFgg9aTRQSTgkl2euxErJtOVoayxJMNTVsmJpO8+48DrzmOMKdnJIGSNyjoqLwxoVNm7coVrNeu9wXteR9EI1lnaCawVDq4S3gqTgehL3w5P6Y82G3WHoVbaBi52g1sIKDHwRnhf0dmwkKSl3kFQkFWbf1MDGwnIYIyIO9PYmH3JhioX+V57hBkiGUEc912BLBtq2lMfglgC1XwYGVEuvkZ/nZSfH4XzLU8RJLjvIqn8o9+uBYNNwfyLZZx9eOYvRvJBgtvq0HDGwqAFmYn/AZP/4kMbvyiDrQ1JzgQrppy04ax54wi+g32cr3W+T1G6HjRIPko6cYre2B63gfWvg86rcgMbVly7iNr+W2myReS1c4NWqnoJyBZ1RTCTZcqYO4ErPLUeF2aZE4RiR5tFRTpcPUb4eKBChY1R2ORIRlO9NaEErcpI1aB8lBii3bnmxS+M+FrwFYUxGRuCcsddZ4yh/lpuRX4Z+9mTvfoCfByRtQq22",
+  "version": "1.0.15",
+  "date": "2026-10-29",
+  "zip": "releases/appapi-wp-1.0.15.zip",
+  "sha256": "4ad35775b4e25f022eeaeb189027c694d87b90d0964f61592e709ce39e4a9e99",
+  "signature": "KoLLssw8Ysd88kQcGP2HCxGFhFLlbp2sRGwLjRZcU1e1HQs1q/nNXvqBNB8Z0Pknopk8AZuiJ41LQQAMQq+9ANVM9mNR8Jixtpku+CyH8HqBStZx9AycOSC3iXqJZ5/TrMK3RCWJryb8EH1fKH3lVE7wl5gEID4wco2ZVRoKv9VR99Nr8HqEKI0ZVwO9KPyRM7AuqK+q58qCyqe7zynxkkJsbdb4MlwFS5dmNjzPYIE5TYCugBz80M5hQGpXG8Eff+wNrEBIoMZANnfieOJbc27/3C3c+Y74psmRWWruah+/wpGv4SSzB9ODSHKTsxw1yT+aTl8KL1r0ae3mGZj2i7zBRNkYn7ntY/5guDLe63WjjoTXIrXACx+kdPb+eefh5dfhzhfR/J47dNXEnj32UqgAnRtZmz+x8WnHvSV2qhAa6dyODjrHxFXuTNTFroMQCT1UAbEEdgE79wEnUp5mCgMZdx2chX9DQCwzWYmEOV/s9lleYh5F0Jk0n+B2QJM/",
   "min_php": "7.4",
-  "notes": "업데이트 직후에도 설치 현황에 새 버전이 바로 반영되고, '개발자에게 알리기'를 끈 사이트는 설치 현황에 넣지 않습니다"
+  "notes": "모듈 4종 번호 맞춤 (그누보드 모듈 추가, 이 플러그인의 코드는 그대로)"
 }
