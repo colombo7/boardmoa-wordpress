@@ -1,9 +1,9 @@
 {
-  "version": "1.0.24",
-  "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.24.zip",
-  "sha256": "d9a5d281b6689fdb4eef8e2e9a312df7c140ef28597d7d6e09dc7a42ce2b64b3",
-  "signature": "VM04wNE4HOwZqGgNaV+FlSNlgEdCvGXE1qrJh4ElRGofxdHznBGU2DZm5DohxMMpfhixSIJ1Qbmq4V9hnfxzyedbKmEbeDhmhkqQRriPI4cp+HjFl7gllGM1j1Kz4URIaULMIYRFYOSHwZPUl6zVE0ukuyMspa6GCLQh2DPCAdwnrVhLlEIRJv+Fs7DE6gsrQ7HF+MEXCDja5ouZ+IvWuUUeHO+tg77aq/FXKYV0sOU7qLWz0x/lnTRldhAnPkQUkgmKrUOSdg3YnmyDCKQDrnNmb0wyxi2KfD9itO1r6XcN3EhkQroBe2rRthT0FQU7MHQDTHbBTDq3Ovo9vS6q3Om7SqtWADqChdz2ocagu/KMLqqYyvOwYYgTb82kibK6ukSMZIx+/I+q1LLTLBbNji/MYe6tzYlugoxtPS+vxmOMCb0wwbmjaSAklUz6hyzwM1ZJINvMuoeHzGAbvnOEW3J9CSgmqJiH/nmhvVaDbzXLmTY5hZCUaqZp0qBKIfc5",
+  "version": "1.0.25",
+  "date": "2026-10-31",
+  "zip": "releases/appapi-wp-1.0.25.zip",
+  "sha256": "e97282bb79aedcc841da012da6e8855cb7afbb554f5556b43b6dfd7814c19912",
+  "signature": "mQLjDCLwSKOMTQxjWPsN57SZ535KnuE2TmplRLZl0re/PXlRseJWQyYA1E5aOcVF6bT3EEa0mpfTznQksmy28YsNRSTThrK1TZB955io9mzDkEaOMKMim8BKEO+BpbLa6jYi2igd4AY15jLfcjnWdf8GOcH0p3Gj/TA/0R6J7CtOSynxIMdKj12ebbT5VAz0FKkXLQy8t0pjh3Sue2TPJbrAcD8931DjxKK/ToT7nTEGrCtd1XRzlOOeJiwKE4DYq7ziYretYEDRaVLnhynhDxZ4Lu3+4sQpJyAw3ug2Jt7wyYs13Pu7Pl7LzGcgiJRnIboalz31qTGHFXIGhpdL5/8j67LxLYuzCqS8xuBgwUXIyjUMl0RnqneVO8FRc2yTeI4lxW/MA86exq/BYKYRfBGbieXPH7jYHtdMFB4Idr0ZWrpvhzYKqv1qZ2vDbiHqd8LJOrqSCNiiSxG4xXuXBIn2zYbnAVaqP56D8gxChfRCQXNo2+8SxGWtS7AGlfSF",
   "min_php": "7.4",
-  "notes": "그누보드 관련 설명을 플러그인으로 통일"
+  "notes": "번호만 올림(그누보드7 플러그인 첫 공개와 같은 번호)"
 }
