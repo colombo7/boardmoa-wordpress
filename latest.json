@@ -1,9 +1,9 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "date": "2026-10-31",
-  "zip": "releases/appapi-wp-1.0.29.zip",
-  "sha256": "b2316e381821b00af0ca78e405f90e80b4c021ffe8038f7e99e7fa44c17a1ede",
-  "signature": "jJghvf9tE9BfhB4kTnS93Js+oGKkrwsInEiv2iOSblvkePcgJItoDp+SkOmLXoCApyNL2fOpHLjVb9vYz4ivP6p1j7A/VM3daVw7XVseCoXsyCtPAr/D3YO/ZwyA+gzxjrc4XHSWOjdSvX/VwA+c4kAKFAcpqTwNnqkmohqEsisiO8slWhI11Q0qKwVlomV0p/R0KQVptgPRuiXkvFip6W5axnM+LjEe5BNNBixM5Hq4sXGBwDYX3O1mWce1DSKAVLQbjLgCiKQf7JkivAyLqPhReDlHFjFzSDgsm1mXsd/bz+4S+oYTuVr59dUsH1Cl8AeunK2w+2+a3ZG0gnh9P/94VUlyVXnjFwIfbJDzLmirw36DduZHrO5KWnUm4W1uTcfeCraxBMw1YU6yz/ssoNTFoSHDZCbuxmBi1pYquxB3hZs/l/nPPdoHNnbhJBK5owT1JaGekQRdUUD43yJZuh4mk2csvsee8Rw9kmL1n9aU3oX1UOSUantp1XVuBSAn",
+  "zip": "releases/appapi-wp-1.0.30.zip",
+  "sha256": "f2e33e397cb00486f27e58214cd139184e3924d26fb5ebf41ecac93d46d51d70",
+  "signature": "XaDY8/CNHGjxCt8PLDZHgZiro/ZHpdHTF8jC1wclkn0dKoDW5z13GfKbGJg5gh3n9/XMvZD2kc3g/4s4fTBS99/HwO2MJSAkxBGE+QfUjIIM6KEwbe+y0Mc1b7AoI+NfiYBwLgCpqW0uT9/1A34idgJ0M1wtmhEl1ItXoMfyz6yp/qr+phSPN6dTLYaDChKVqIO2qcxn8xuKh7Lj4hMiSFwY3hULs4kHfKbmMF562sfoxL89kKrGmQyf5Ymh/gpXDpXnMRxz/yeFehOFKURroMcwOXv2wlRIaXQ7WcHu30APJTZvDqxHd/jHJnD3l2MIZstSMV7OhKJd481t7SFkb+VpAYRQJIZhLgiEeQMtg63O3QO5DvCKV4hJjgCe35rImOrdFkbdATGpOgDAlhgOwGV9u94ssH94IhOQE74lL6Qyqa0CJp7q2O5NJMyGTuVs8rjeDow27t0ZX3C+t16hLjhrbsBhNVwR0BJCAA8DHrFVvd3w0sugRqzY1UazEAQz",
   "min_php": "7.4",
-  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
+  "notes": "플러그인 관리 화면 아이콘(XE3·그누보드7)"
 }
