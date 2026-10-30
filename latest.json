@@ -1,9 +1,9 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.18.zip",
-  "sha256": "ff78d5177731eb6ea125d80644f0f6b34c61aa12cd4785f802b0066260ed890c",
-  "signature": "ujXGPlzIorLc10kQ7KfBsvuQaiMKAe8VtsXTc6MdbVWdVdaq3uOLNHspkAEO7Um6M1XI7hY3azLYPiHufltnt7Es+AIR78dunB0bVmPJdV19idUrU98xC14I/l81UFrF4hCn34o3OCQAeR8oqn4CaXsO7r8wTRqUMHUbdQxWB6RKOnKml9vKBEPfcrk2bl+YaSjN/OCSltoartmasZPOqZRMPQ0eN+GIKI9J74DemwqWiC4LRL9GC45vq3HCCJebsSlTvQRytx9MU8JgP+qRXIeeeOtOOqfUelJ7WpwWNDSDBZ6vDhIEBkV2yytXQBMX0bGi3EEYebavV41TTWqBBHmZkP4JPMIEJMRRP87iVRF/bLJFvHUMocWrGfbx34GMLspgPBo/JJracwDTx7Ae/1LiSSxLJ3OFfsZt5/RZfIk2fTexDVSpnzLx+kqZMyVfiVgOdtLJb7mN4NztDnYhO9aGVNVOIlFruu/ZqMQcWQ5UXAenU8Ll7zSo7emGUgwO",
+  "zip": "releases/appapi-wp-1.0.19.zip",
+  "sha256": "a20bf92aaf20483646c2a562e8c1099d2470da8bb3d18063c28ea3bc796ff11d",
+  "signature": "mHB7sbeVNRq41NJ0adS5BCUNZgjB71uLluQKZHawmiuzp4Vlq4j9v4HcHKmBrbvKt45RNfZxjQgFURBKqSCR30tc2dMqFIXtyTKBNf+b5b6RAUyUWlzdwOMk8wOVBtfytQJ5Pw0ym45KWOFdTtRC52faiqK0vBlAmCRdMmGdyGQBXLygJpzwZo73WNxQ/Twa6oXdUbq8tvPa+q08+3Ol9XGdq5k3svpLLj29hzF6AaiUACoH/5KfIyDmsseT3VfOFzQcYR9jdjaaDf4R2/KPORCjW9IOW1BgGb5sj5KFLArHo46bo6JUt/6lBGrm1TShK5QrVxI/rVdBzoBgsejOwR92FXdbFhuiWF91uhd5GSaOV0xftOmYgn07Fyl4LSadt/ftK3T+2i5/HRSfOVxY5vac1f9rT8z7cOMYOt4qD3S7CMT2b2OeC9jOUThqb030Wmx0UNZH39PUY7M/HS0TY/+ohdVyc+AVVUecNn8uxfkpBE61T4Tj4R0CP0HbN5BK",
   "min_php": "7.4",
-  "notes": "1.0.18: 보안 강화(비밀번호·로그인 시도 제한, 2단계 인증 확인, 업데이트 백업 보호), 댓글 추천, 파일 첨부, 비밀번호로 연 비밀글에 댓글, 이름 메뉴·회원 정보, 스크랩, 추가 항목, 태그"
+  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
 }
