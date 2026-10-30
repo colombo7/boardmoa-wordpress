@@ -1,9 +1,9 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.22.zip",
-  "sha256": "b500bd1a14d4a134867ab42580004f0fa5ce28cab9d9faad555db25f686a1136",
-  "signature": "UKTEBYbJPTrCz5EXOPDeC2TBdcHwrXgNNehhFYsl1gfW+LOLSVu/aZpoTnBChzAm26W0q7WELg6CvorRvc1IdqCPrLrKEgnJfot006EHkryp0VDFfTOTKAcy4yC7B/q492XioUWBkyg6nDxDZ/oUaoJ+wepBw6yiXjrtWJw3TP5dtZJhHoS+WLmKGex7RzKZj4rx6tKpdu4U6dqsfDF4lsmsmR/Bbiun51n92Ndm0Q7vExO+4vrCLvG0Y4y4/Dltbs3HgiTVmTXKfRF3/uiz19XrcylyKlFuARI1fhGR1yiFRwX4v6/8WZKVfCcZ0xDr3k5hJ81iTsCoD/9GWnROhXYy36FRlkAgInIueJpnqJ3r/eDZS9/csY0NBxklNdzzUMyYOelizvBhiai/50oyKh9/km/Tz8+3L4wK59B8RKQMg56yBS50gzLfUa4R8Tyk8F8N4jidtOldxr6FhMVoh7+d8Hi7iMIvS+xTlYHouZq0Eu7wHBPzMB5aLTCgnFz5",
+  "zip": "releases/appapi-wp-1.0.23.zip",
+  "sha256": "b08061e85df7c40348a164b21787be12162c185329afb12b06e0286e4c9c9f28",
+  "signature": "c64svTU9UVxcP9StTVQ4uQr4MzklAp9nXF+XU/orpYHmigL0mVT3kotg0SX5pC5GLB3wryiZWC6iTN328usjO6G1Jcw87hITpP8iJCAO+KDEnJSPg4MyurVAjh2D5opJpIzhlxqiEPZmSmFbZYv+yfyCcv7Bv6a+dwnmP9q8l70xiAd0Ekzv+4K1OgUOq58j2/nK2slNDXqy1wR3JEeuW7gT4T8k/2k2/dFLYyImZUa/0kt8l1zk+cuIrh9nECqrzDPToITYtAeCqRO/E0n8Ck3qPApN/ZUIuFcgYUBmAn3MRgTHqWHyoiRzisanQsJkjSrr0vmJU9in0Ol2yco/YHrGHgiyc1N0Vfd5Gvot9SdcM+JpKHPqDs55tRvllGqndX4AbCYOXBHjH6xJdaJf8yW2TdP1yY5BRxoJ+y/Wd2p/cUAupsVoWPYktCS09T28g9x5tyIlrPzIakiJuxkvSVWH0VNlYcneG/AyKb5hLSdVtlKMMExXWlvbPp9qkReT",
   "min_php": "7.4",
-  "notes": "그누보드 내 정보 수정의 자동 입력 방지는 지원하는 앱(2.0.7~)에만 요구"
+  "notes": "내 정보 수정에서 닉네임·정보공개 변경 제한 기간 안내(그누보드)"
 }
