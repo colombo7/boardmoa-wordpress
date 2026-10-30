@@ -1,9 +1,9 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.17.zip",
-  "sha256": "aa6396aeb7bd695a1d4e5e071d0a9ecb03349b1851c4d10eaae6c85c607a9aec",
-  "signature": "qArl0LZ+H8o4KwhIfyw5gfRLvkBrZIFnm5yl94h0GDYLAFUiUimbFohtt9qOAVVmOno9eoRRZNrs8EYROg8HF/jREBU5tYptDpYs2Y9k3vE+Inb1K7vuTHT/u+DaAJ+2wWUGQHVMA2iwxUqGtcpUcgmHhCWsJdMUCmvpg8vioX6GlMPqaeHyxlzfQxgceNvdkjiCzSRiYwOxJWIJ/wOS0EouI0Sl5+fzp6hqJPdLcRz7En8F+iP02zQd3ScEOskXPVaAcICNMyKf8Gpate3tvIYapZA/GkNJwecKKWazc+5ioKAlQz1ESJ3U+YUJkx1RX8/Qy/ffyGvW2pTSqNUASvMDC9wA1sqyMFYpFSLSJg6mSfoaSLGwlTVXExwoVY+KLkXMFXMggE9mP+JpVjv2E2rDSf0Tcu89gplgdzAs75bOG2QuI6scvUCXLwimEyU6UGTTx6m5jfHLVtdc9vhzPXiW+yUMCo1XJbieNy1VQ8shnuz39jQRtJQ1qnCubtY0",
+  "zip": "releases/appapi-wp-1.0.18.zip",
+  "sha256": "ff78d5177731eb6ea125d80644f0f6b34c61aa12cd4785f802b0066260ed890c",
+  "signature": "ujXGPlzIorLc10kQ7KfBsvuQaiMKAe8VtsXTc6MdbVWdVdaq3uOLNHspkAEO7Um6M1XI7hY3azLYPiHufltnt7Es+AIR78dunB0bVmPJdV19idUrU98xC14I/l81UFrF4hCn34o3OCQAeR8oqn4CaXsO7r8wTRqUMHUbdQxWB6RKOnKml9vKBEPfcrk2bl+YaSjN/OCSltoartmasZPOqZRMPQ0eN+GIKI9J74DemwqWiC4LRL9GC45vq3HCCJebsSlTvQRytx9MU8JgP+qRXIeeeOtOOqfUelJ7WpwWNDSDBZ6vDhIEBkV2yytXQBMX0bGi3EEYebavV41TTWqBBHmZkP4JPMIEJMRRP87iVRF/bLJFvHUMocWrGfbx34GMLspgPBo/JJracwDTx7Ae/1LiSSxLJ3OFfsZt5/RZfIk2fTexDVSpnzLx+kqZMyVfiVgOdtLJb7mN4NztDnYhO9aGVNVOIlFruu/ZqMQcWQ5UXAenU8Ll7zSo7emGUgwO",
   "min_php": "7.4",
-  "notes": "KBoard·망보드 그림 글자 자동 입력 방지를 앱에서(새 앱), KBoard·망보드 답글 쓰기, 망보드 사진 올리기·비밀 댓글"
+  "notes": "1.0.18: 보안 강화(비밀번호·로그인 시도 제한, 2단계 인증 확인, 업데이트 백업 보호), 댓글 추천, 파일 첨부, 비밀번호로 연 비밀글에 댓글, 이름 메뉴·회원 정보, 스크랩, 추가 항목, 태그"
 }
