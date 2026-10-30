@@ -1,9 +1,9 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.21.zip",
-  "sha256": "f4f2cbbeb1fa6f0b68dde944ff3cca7a6043c4e882a308cccbfb3706b02f16c1",
-  "signature": "jzFhy/5p3Q3IiC+nKbV4Jl65F1Rr65zx3bU0CWqm04o4Tn5j6YoWsQUSHqX8KKG73wDMhp59Kqpm/U55dyESK8UFi/grF3XSG/9mFdLai4o0y51HF9uT1fN2bGeIT6RoVqs+Hlvx7zQ6kQtpvWzSLs0aM7XSM7Qj+PmeOUYi8LrM9F5ACyLrpvCYebD6VnvhZ8V07uE71aRXjfCjSEwSMcMuoroOLZsfJUA/W5ik3KmR08s4hwEpqZ4mvHqhQUL1GJvGMGhFaQmtkR+xQ4HIsbY9Wvwd6CArb3R0z+zpq79YOISENzsWnTscs/KLSxlMKB7eIr6NXZAWzfZ3NYQZU/qMIHSCxMJq+8wFQOZfOQZYK/DMxiYTdnexs1AIzW0DWcTYGLGPHK4tjelNzrF3+soq0kDBHcpRTDjr55m2/WX1bB7r0OX24PPO4gUB15JR7iVbo1nXW4OcVEoLbAgr7O3QiYAZ8mMxczEaoJBEJ0mIceEQz+bNZh4edpShzBWb",
+  "zip": "releases/appapi-wp-1.0.22.zip",
+  "sha256": "b500bd1a14d4a134867ab42580004f0fa5ce28cab9d9faad555db25f686a1136",
+  "signature": "UKTEBYbJPTrCz5EXOPDeC2TBdcHwrXgNNehhFYsl1gfW+LOLSVu/aZpoTnBChzAm26W0q7WELg6CvorRvc1IdqCPrLrKEgnJfot006EHkryp0VDFfTOTKAcy4yC7B/q492XioUWBkyg6nDxDZ/oUaoJ+wepBw6yiXjrtWJw3TP5dtZJhHoS+WLmKGex7RzKZj4rx6tKpdu4U6dqsfDF4lsmsmR/Bbiun51n92Ndm0Q7vExO+4vrCLvG0Y4y4/Dltbs3HgiTVmTXKfRF3/uiz19XrcylyKlFuARI1fhGR1yiFRwX4v6/8WZKVfCcZ0xDr3k5hJ81iTsCoD/9GWnROhXYy36FRlkAgInIueJpnqJ3r/eDZS9/csY0NBxklNdzzUMyYOelizvBhiai/50oyKh9/km/Tz8+3L4wK59B8RKQMg56yBS50gzLfUa4R8Tyk8F8N4jidtOldxr6FhMVoh7+d8Hi7iMIvS+xTlYHouZq0Eu7wHBPzMB5aLTCgnFz5",
   "min_php": "7.4",
-  "notes": "내 정보 수정에서 회원아이콘·이미지 이름·이미지 마크·서명·자기소개 등 웹과 같은 항목 수정(앱 2.0.7부터)"
+  "notes": "그누보드 내 정보 수정의 자동 입력 방지는 지원하는 앱(2.0.7~)에만 요구"
 }
