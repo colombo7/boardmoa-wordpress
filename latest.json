@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.23.zip",
-  "sha256": "b08061e85df7c40348a164b21787be12162c185329afb12b06e0286e4c9c9f28",
-  "signature": "c64svTU9UVxcP9StTVQ4uQr4MzklAp9nXF+XU/orpYHmigL0mVT3kotg0SX5pC5GLB3wryiZWC6iTN328usjO6G1Jcw87hITpP8iJCAO+KDEnJSPg4MyurVAjh2D5opJpIzhlxqiEPZmSmFbZYv+yfyCcv7Bv6a+dwnmP9q8l70xiAd0Ekzv+4K1OgUOq58j2/nK2slNDXqy1wR3JEeuW7gT4T8k/2k2/dFLYyImZUa/0kt8l1zk+cuIrh9nECqrzDPToITYtAeCqRO/E0n8Ck3qPApN/ZUIuFcgYUBmAn3MRgTHqWHyoiRzisanQsJkjSrr0vmJU9in0Ol2yco/YHrGHgiyc1N0Vfd5Gvot9SdcM+JpKHPqDs55tRvllGqndX4AbCYOXBHjH6xJdaJf8yW2TdP1yY5BRxoJ+y/Wd2p/cUAupsVoWPYktCS09T28g9x5tyIlrPzIakiJuxkvSVWH0VNlYcneG/AyKb5hLSdVtlKMMExXWlvbPp9qkReT",
+  "zip": "releases/appapi-wp-1.0.24.zip",
+  "sha256": "d9a5d281b6689fdb4eef8e2e9a312df7c140ef28597d7d6e09dc7a42ce2b64b3",
+  "signature": "VM04wNE4HOwZqGgNaV+FlSNlgEdCvGXE1qrJh4ElRGofxdHznBGU2DZm5DohxMMpfhixSIJ1Qbmq4V9hnfxzyedbKmEbeDhmhkqQRriPI4cp+HjFl7gllGM1j1Kz4URIaULMIYRFYOSHwZPUl6zVE0ukuyMspa6GCLQh2DPCAdwnrVhLlEIRJv+Fs7DE6gsrQ7HF+MEXCDja5ouZ+IvWuUUeHO+tg77aq/FXKYV0sOU7qLWz0x/lnTRldhAnPkQUkgmKrUOSdg3YnmyDCKQDrnNmb0wyxi2KfD9itO1r6XcN3EhkQroBe2rRthT0FQU7MHQDTHbBTDq3Ovo9vS6q3Om7SqtWADqChdz2ocagu/KMLqqYyvOwYYgTb82kibK6ukSMZIx+/I+q1LLTLBbNji/MYe6tzYlugoxtPS+vxmOMCb0wwbmjaSAklUz6hyzwM1ZJINvMuoeHzGAbvnOEW3J9CSgmqJiH/nmhvVaDbzXLmTY5hZCUaqZp0qBKIfc5",
   "min_php": "7.4",
-  "notes": "내 정보 수정에서 닉네임·정보공개 변경 제한 기간 안내(그누보드)"
+  "notes": "그누보드 관련 설명을 플러그인으로 통일"
 }
