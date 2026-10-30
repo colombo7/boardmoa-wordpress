@@ -1,9 +1,9 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "date": "2026-10-30",
-  "zip": "releases/appapi-wp-1.0.19.zip",
-  "sha256": "a20bf92aaf20483646c2a562e8c1099d2470da8bb3d18063c28ea3bc796ff11d",
-  "signature": "mHB7sbeVNRq41NJ0adS5BCUNZgjB71uLluQKZHawmiuzp4Vlq4j9v4HcHKmBrbvKt45RNfZxjQgFURBKqSCR30tc2dMqFIXtyTKBNf+b5b6RAUyUWlzdwOMk8wOVBtfytQJ5Pw0ym45KWOFdTtRC52faiqK0vBlAmCRdMmGdyGQBXLygJpzwZo73WNxQ/Twa6oXdUbq8tvPa+q08+3Ol9XGdq5k3svpLLj29hzF6AaiUACoH/5KfIyDmsseT3VfOFzQcYR9jdjaaDf4R2/KPORCjW9IOW1BgGb5sj5KFLArHo46bo6JUt/6lBGrm1TShK5QrVxI/rVdBzoBgsejOwR92FXdbFhuiWF91uhd5GSaOV0xftOmYgn07Fyl4LSadt/ftK3T+2i5/HRSfOVxY5vac1f9rT8z7cOMYOt4qD3S7CMT2b2OeC9jOUThqb030Wmx0UNZH39PUY7M/HS0TY/+ohdVyc+AVVUecNn8uxfkpBE61T4Tj4R0CP0HbN5BK",
+  "zip": "releases/appapi-wp-1.0.20.zip",
+  "sha256": "e22ea5451f0482c7aa52940c7f8d7efbf3fd022f6a1c3e85bc85ea7bcdd6686a",
+  "signature": "RYlVSO9scb7X1orkbNxQ2g5VFaGLk/hfQL1XN1LFY8mXuI/oe4vPaDAVX+MPbtVtA+6ihzYxWBshug8cENE5KmpPkezcrIn8a7XixF452V/61DfxCRjKWzIE1iy0XEOHbY4Gr/isQwOAVoOjI8vstQhRIRmbdNeA88rOdeNAStuN3ZsmMdwiSzGaKM8Ialj23yFGkIsSz7erH3U1K8XM8MzHcs8vCiUZpU3wlqHXu2YykHTL5ffmF5ei3EJtV7CLjyQ/VfC0fNiPO5EmE9UQ2sXeS1WJGRYlQZBq1AYEeZy0044YjviRfclsG9IzpC/PcdlCemnjC2eGIpEg7+zwQ6cVaBcYKrutD7gCetWL2GOhScXWMF6ZdXAjMaDefdkQBPlcz/gNy1cA0Ax0sDnavnz0R+ITRbNmWciZUELhRETvTdjjT/vWpuYjqKtNDUnp4SPFLhQxw9bem5X/sxT2BHx0si17C0aMiEC92EnkFws9kPWDCG7UnaDEeWTOAnrj",
   "min_php": "7.4",
-  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
+  "notes": "이름(닉네임) 표시(앱 2.0.7부터), 그누보드 내 정보 수정"
 }
